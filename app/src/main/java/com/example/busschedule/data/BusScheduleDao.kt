@@ -21,7 +21,7 @@ interface BusScheduleDao {
     @Query(
         """
         SELECT * FROM schedule 
-        WHERE stopping_Place = :stopName 
+        WHERE stop_name = :stopName 
         ORDER BY arrival_time ASC 
         """
     )

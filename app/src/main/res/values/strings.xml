@@ -14,10 +14,10 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">Bus Schedule</string>
-    <string name="full_schedule">Bus Schedule</string>
+    <string name="app_name"> Bebeto Bus </string>
+    <string name="full_schedule"> Bebeto Bus Schedule</string>
     <string name="back">Back</string>
-    <string name="stop_name">Stop Name</string>
+    <string name="stop_name">Stopping Place</string>
     <string name="route_stop_name">Stop</string>
     <string name="arrival_time">Arrival Time</string>
 </resources>
